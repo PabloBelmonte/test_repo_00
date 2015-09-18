@@ -1,4 +1,4 @@
-nome: 
-endereço: 
-sexo: 
-boiolagem: 
+nome: pablo
+endereço: meu ap
+sexo: M
+boiolagem: zero
