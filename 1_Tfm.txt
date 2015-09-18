@@ -1,4 +1,4 @@
-nome: 
-endereço: 
-sexo: 
-boiolagem: 
+nome: vinicius
+endereço: minha casa
+sexo: FFF
+boiolagem: altisssima
