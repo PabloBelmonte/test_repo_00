@@ -1,4 +1,4 @@
 nome: vinicius
 endereço: minha casa
-sexo: F
-boiolagem: alta
+sexo: FFF
+boiolagem: altisssima

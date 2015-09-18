@@ -1,4 +1,4 @@
 nome: pablo
 endereço: meu ap
-sexo: M
-boiolagem: zero
+sexo: MMM
+boiolagem: inexistente
